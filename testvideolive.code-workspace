@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "E:/Font-end/HTML/testvideolive"
+		},
+		{
+			"path": "E:/Font-end/JS"
+		},
+		{
+			"path": "E:/Font-end"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs"
+		},
+		{
+			"path": "E:/NNPTUDM"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Font-end"
+	}
+}
